@@ -1,0 +1,15 @@
+C:\Users\jaylo\source\repos\exam1\bin\Debug\net6.0\exam1.exe
+C:\Users\jaylo\source\repos\exam1\bin\Debug\net6.0\exam1.deps.json
+C:\Users\jaylo\source\repos\exam1\bin\Debug\net6.0\exam1.runtimeconfig.json
+C:\Users\jaylo\source\repos\exam1\bin\Debug\net6.0\exam1.dll
+C:\Users\jaylo\source\repos\exam1\bin\Debug\net6.0\exam1.pdb
+C:\Users\jaylo\source\repos\exam1\obj\Debug\net6.0\exam1.csproj.AssemblyReference.cache
+C:\Users\jaylo\source\repos\exam1\obj\Debug\net6.0\exam1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaylo\source\repos\exam1\obj\Debug\net6.0\exam1.AssemblyInfoInputs.cache
+C:\Users\jaylo\source\repos\exam1\obj\Debug\net6.0\exam1.AssemblyInfo.cs
+C:\Users\jaylo\source\repos\exam1\obj\Debug\net6.0\exam1.csproj.CoreCompileInputs.cache
+C:\Users\jaylo\source\repos\exam1\obj\Debug\net6.0\exam1.dll
+C:\Users\jaylo\source\repos\exam1\obj\Debug\net6.0\refint\exam1.dll
+C:\Users\jaylo\source\repos\exam1\obj\Debug\net6.0\exam1.pdb
+C:\Users\jaylo\source\repos\exam1\obj\Debug\net6.0\exam1.genruntimeconfig.cache
+C:\Users\jaylo\source\repos\exam1\obj\Debug\net6.0\ref\exam1.dll
